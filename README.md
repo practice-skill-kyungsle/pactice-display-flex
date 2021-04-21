@@ -8,7 +8,7 @@ FlexBox를 통해서 아래와 같이 만들어보세요!
 
 <br>
 
-<img width="1440" alt="스크린샷 2021-04-21 오후 10 02 46" src="https://user-images.githubusercontent.com/79993356/115558214-7a6f5e80-a2ed-11eb-97b1-53a43ecc43d9.png">
+![무제](https://user-images.githubusercontent.com/79993356/115570855-6b8ea900-a2f9-11eb-8686-e6dd6874b248.png)
 
 <br>
 
@@ -16,7 +16,7 @@ FlexBox를 통해서 아래와 같이 만들어보세요!
 
 <br>
 
-<img width="644" alt="스크린샷 2021-04-21 오후 10 03 03" src="https://user-images.githubusercontent.com/79993356/115558364-a25ec200-a2ed-11eb-8821-33c2d2d1cff6.png">
+![무제2](https://user-images.githubusercontent.com/79993356/115570866-6d586c80-a2f9-11eb-835a-238f169bf255.png)
 
 <br>
 
