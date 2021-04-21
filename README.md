@@ -32,7 +32,7 @@ FlexBox를 통해서 아래와 같이 만들어보세요!
 
 <br>
 
-HTML과 CSS, Javascript를 사용해보세요!
+<b>HTML과 CSS, Javascript를 사용해보세요!</b>
 
 이 아래 부터는 제가 이 페이지를 만들면서 사용했던 방법들에 대한 설명입니다. (스포주의😄)
 
@@ -108,6 +108,9 @@ CSS파일에 이렇게 설정해두면 나중에 color지정해 줄 때 변수�
 
 따라서 우리가 위에서 해줬던 행위는 tool이 click 된다면, menu와 icons에 토글을 생성해주고 active로 만들어주는 것입니다.
 
+
 <a href="https://developer.mozilla.org/ko/docs/Web/API/EventTarget/addEventListener">addEventListener</a>
+
 <a href="https://developer.mozilla.org/ko/docs/Web/Events">이벤트 참조</a>
+
 <a href="https://developer.mozilla.org/ko/docs/Web/API/Element/classList">Classlist와 토글</a>
