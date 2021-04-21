@@ -1,6 +1,6 @@
 # FlexBox Page Clone Project
 
-CSS중 Flexbox를 응요해보는 레퍼지토리입니다.
+CSS중 Flexbox를 응용해보는 레퍼지토리입니다.
 
 FlexBox를 통해서 아래와 같이 만들어보세요!
 
@@ -8,7 +8,7 @@ FlexBox를 통해서 아래와 같이 만들어보세요!
 
 <br>
 
-<img width="1440" alt="스크린샷 2021-04-21 오후 10 02 46" src="https://user-images.githubusercontent.com/79993356/115558214-7a6f5e80-a2ed-11eb-97b1-53a43ecc43d9.png">
+<img width="1440" alt="스크린샷 2021-04-21 오후 10 02 46" src="https://user-images.githubusercontent.com/79993356/115558214-7a6f5e80-a2ed-11eb-97b1-53a43ecc43d9.png">
 
 <br>
 
@@ -16,7 +16,7 @@ FlexBox를 통해서 아래와 같이 만들어보세요!
 
 <br>
 
-<img width="644" alt="스크린샷 2021-04-21 오후 10 03 03" src="https://user-images.githubusercontent.com/79993356/115558364-a25ec200-a2ed-11eb-8821-33c2d2d1cff6.png">
+<img width="644" alt="스크린샷 2021-04-21 오후 10 03 03" src="https://user-images.githubusercontent.com/79993356/115558364-a25ec200-a2ed-11eb-8821-33c2d2d1cff6.png">
 
 <br>
 
@@ -24,7 +24,7 @@ FlexBox를 통해서 아래와 같이 만들어보세요!
 
 <br>
 
-<img width="648" alt="스크린샷 2021-04-21 오후 10 03 20" src="https://user-images.githubusercontent.com/79993356/115558490-c28e8100-a2ed-11eb-920c-9c99bf4d146b.png">
+<img width="648" alt="스크린샷 2021-04-21 오후 10 03 20" src="https://user-images.githubusercontent.com/79993356/115558490-c28e8100-a2ed-11eb-920c-9c99bf4d146b.png">
 
 <br>
 
