@@ -8,7 +8,7 @@ FlexBox를 통해서 아래와 같이 만들어보세요!
 
 <br>
 
-![무제](https://user-images.githubusercontent.com/79993356/115570855-6b8ea900-a2f9-11eb-8686-e6dd6874b248.png)
+![무제2](https://user-images.githubusercontent.com/79993356/115570866-6d586c80-a2f9-11eb-835a-238f169bf255.png)
 
 <br>
 
@@ -16,7 +16,7 @@ FlexBox를 통해서 아래와 같이 만들어보세요!
 
 <br>
 
-![무제2](https://user-images.githubusercontent.com/79993356/115570866-6d586c80-a2f9-11eb-835a-238f169bf255.png)
+![무제](https://user-images.githubusercontent.com/79993356/115570855-6b8ea900-a2f9-11eb-8686-e6dd6874b248.png)
 
 <br>
 
