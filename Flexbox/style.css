@@ -1,0 +1,85 @@
+/*root는 css에 변수를 할당해주는 행위이다. 
+여기에 설정해두면 색상이 필요할 때 불러서 쓸 수 있다.*/
+:root {
+  --text-color: #f0f4f5;
+  --background-color: rgb(42, 57, 79);
+  --accent-color: #d49466;
+}
+
+body {
+  margin: 0;
+  font-family: "Source Sans Pro";
+}
+
+.container {
+  background-color: var(--background-color);
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/*tool은 태블릿 보드에서만 보이게 하기 위해서 display를 끕니다.*/
+.navbar__tool {
+  display: none;
+}
+
+.navbar__menu {
+  width: 60%;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar__menu a {
+  color: var(--text-color);
+  text-decoration: none;
+  margin: 4%;
+}
+
+.navbar__icons {
+  display: flex;
+  margin-right: 15px;
+}
+
+.navbar__icons img {
+  height: 15px;
+  margin: 15px 10px;
+}
+
+/*화면이 좌우로 좁아진다면 태블릿 모드로 전환시켜 줍니다.*/
+@media screen and (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .navbar__tool {
+    display: inline;
+    position: absolute;
+    top: 25px;
+    right: 15px;
+  }
+
+  .navbar__tool img {
+    height: 30px;
+  }
+
+  /*flexdirection을 column으로 주어서 menu가 세로로 보이게 해줍니다.*/
+  .navbar__menu {
+    display: none;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+  }
+  .navbar__icons {
+    display: none;
+    width: 100%;
+    justify-content: center;
+  }
+
+  /*tool을 클릭한다면 menu와 icons이 보이도록 설정해줍니다.*/
+  .navbar__menu.active,
+  .navbar__icons.active {
+    display: flex;
+  }
+}
