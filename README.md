@@ -38,7 +38,7 @@ HTML과 CSS, Javascript를 사용해보세요!
 
 ---
 
-✅ Media Query
+## ✅ Media Query
 
 <a href="https://developer.mozilla.org/ko/docs/Web/CSS/Media_Queries/Using_media_queries">참고 MDN</a>
 
@@ -63,7 +63,7 @@ screen의 너비가 <b>800px 이상</b>이면 컨테이너를 이렇게 만들�
 <br>
 <br>
 
-✅  Var CSS
+## ✅ Var CSS
 
 ![6](https://user-images.githubusercontent.com/79993356/115560008-29606a00-a2ef-11eb-88fa-ddbbb8179736.png)
 
@@ -78,7 +78,7 @@ CSS파일에 이렇게 설정해두면 나중에 color지정해 줄 때 변수�
 <br>
 <br>
 
-✅  querySelector
+## ✅ querySelector
 
 ![8](https://user-images.githubusercontent.com/79993356/115560011-29f90080-a2ef-11eb-883a-7ba99b9ed7e8.png)
 
