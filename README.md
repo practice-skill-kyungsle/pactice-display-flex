@@ -2,7 +2,7 @@
 
 CSS중 Flexbox를 응용해보는 레퍼지토리입니다.
 
-FlexBox를 통해서 아래와 같이 만들어보세요!
+FlexBox를 통해서 아래와 같이 만들어보세요 👻
 
 출처 : <a href="https://www.youtube.com/watch?v=X91jsJyZofw">Ellie's coding</a>
 
